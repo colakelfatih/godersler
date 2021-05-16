@@ -13,5 +13,5 @@ func main() {
 		// Sleep for a random duration between 0-1000ms
 		time.Sleep(dur)
 	}
-	fmt.Println("Done!")
+	fmt.Println("Tamamlandı!")
 }
