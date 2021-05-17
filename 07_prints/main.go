@@ -24,8 +24,14 @@ func main() {
 	//x := 10
 
 	//fmt.Println(x)
-	//Go camel case using
-	var coin string
-	var coinType string
+	//Go camel case isimlendirme kullanılır
+	/* 	var coin string
+	   	var coinType string
+	   	//kısaltmalar büyük harfle yazılır
+	   	var URL //url değil
+	   	var HTTP
+	   	var ETC
+
+	   	i, j, k */
 
 }
